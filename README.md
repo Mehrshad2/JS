@@ -1,1 +1,1 @@
-# JS
+# GERTIFICATE : JavaScript course
