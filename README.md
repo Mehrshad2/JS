@@ -1,3 +1,3 @@
 # GERTIFICATE : JavaScript course
 --------------
-- [SoloLearn](https://www.sololearn.com/Certificate1024-20277483/pdf/)
+- [SoloLearn](https://www.sololearn.com/Certificate/1024-20277483/pdf/)
